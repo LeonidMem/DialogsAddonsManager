@@ -1,0 +1,11 @@
+name: DialogsAddonsManager
+main: ru.leonidm.dialogs.addons_manager.DialogsAddonsManager
+version: 1.0
+api-version: 1.13
+author: LeonidM
+depend: [DialogsM]
+commands:
+  addonsmanager:
+    description: DialogsAddonsManager command
+    usage: /diaddons [enable/disable] [name]
+    aliases: [daddons, dmanager, daddonsmanager]
