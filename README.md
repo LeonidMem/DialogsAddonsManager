@@ -1,2 +1,2 @@
 # DialogsAddonsManager
- Addon for the DialogsM
+Addon for DialogsM, which allows you to disable and enable any other addon.
